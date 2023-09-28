@@ -12,20 +12,20 @@
   "id": "did:web:jobenland-deloitte.github.io/DID-Tester/",
   "verificationMethod": [
     {
-      "id": "did:web:jobenland-deloitte.github.io/DID-Tester/#z6Mkie3syrUe6BVsMncDpSBBcUnGDeSvrzf4rZ3k5LfCBxW2",
+      "id": "did:web:jobenland-deloitte.github.io/DID-Tester/#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:jobenland-deloitte.github.io/DID-Tester/",
       "publicKeyJwk": {
         "kty": "OKP",
         "crv": "Ed25519",
-        "x": "PjJhfOKNuSrQC5WlwYs7Qj2r5q8CiFmoGk0QnOXDXA8"
+        "x": "bIgzttgtzvjJjG1a18wu50TGc_8JZh9m7_mlqRCjtxk"
       }
     }
   ],
   "authentication": [
-    "did:web:jobenland-deloitte.github.io/DID-Tester/#z6Mkie3syrUe6BVsMncDpSBBcUnGDeSvrzf4rZ3k5LfCBxW2"
+    "did:web:jobenland-deloitte.github.io/DID-Tester/#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC"
   ],
   "assertionMethod": [
-    "did:web:jobenland-deloitte.github.io/DID-Tester/#z6Mkie3syrUe6BVsMncDpSBBcUnGDeSvrzf4rZ3k5LfCBxW2"
+    "did:web:jobenland-deloitte.github.io/DID-Tester/#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC"
   ]
 }
