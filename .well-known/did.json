@@ -1,0 +1,31 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    {
+      "Ed25519VerificationKey2018": "https://w3id.org/security#Ed25519VerificationKey2018",
+      "publicKeyJwk": {
+        "@id": "https://w3id.org/security#publicKeyJwk",
+        "@type": "@json"
+      }
+    }
+  ],
+  "id": "did:web:jobenland-deloitte.github.io/DID-Tester/",
+  "verificationMethod": [
+    {
+      "id": "did:web:jobenland-deloitte.github.io/DID-Tester/#z6Mkie3syrUe6BVsMncDpSBBcUnGDeSvrzf4rZ3k5LfCBxW2",
+      "type": "Ed25519VerificationKey2018",
+      "controller": "did:web:jobenland-deloitte.github.io/DID-Tester/",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "PjJhfOKNuSrQC5WlwYs7Qj2r5q8CiFmoGk0QnOXDXA8"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:jobenland-deloitte.github.io/DID-Tester/#z6Mkie3syrUe6BVsMncDpSBBcUnGDeSvrzf4rZ3k5LfCBxW2"
+  ],
+  "assertionMethod": [
+    "did:web:jobenland-deloitte.github.io/DID-Tester/#z6Mkie3syrUe6BVsMncDpSBBcUnGDeSvrzf4rZ3k5LfCBxW2"
+  ]
+}
