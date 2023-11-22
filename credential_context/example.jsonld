@@ -9,8 +9,7 @@
                 "@protected": true,
                 "id": "@id",
                 "type": "@type",
-                "name": "http://schema.org/name",
-                "degreetype": "http://schema.org/programType"
+                "hash": "http://schema.org/identifier"
             }
         }
     }
